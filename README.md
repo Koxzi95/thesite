@@ -1,4 +1,4 @@
 thesite
 =======
 
-crm-is static website in nodejs (sorta)
+crm-is static website in ruby
